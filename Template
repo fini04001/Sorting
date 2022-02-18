@@ -12,8 +12,9 @@ namespace Template
 
         }
         //Sorting type
-        
-         static void Main(string[] args)          //Scrambler
+         
+         static void Main(string[] args)  
+          //Scrambler
         {
             int length = 1000;
             int[] scrm = new int[length];
@@ -45,7 +46,8 @@ namespace Template
             stopwatch.Stop();
 
             Console.WriteLine("Sorted: ");
-            foreach(var e in scrm) //in Funktion
+            //in Funktion
+            foreach(var e in scrm) 
             {
                 Console.WriteLine(e);
             }
