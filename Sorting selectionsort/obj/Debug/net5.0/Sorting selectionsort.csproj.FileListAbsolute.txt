@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\Sorting selectionsort\bin\Debug\net5.0\Sorting selectionsort.exe
+C:\Users\Admin\Documents\Sorting selectionsort\bin\Debug\net5.0\Sorting selectionsort.deps.json
+C:\Users\Admin\Documents\Sorting selectionsort\bin\Debug\net5.0\Sorting selectionsort.runtimeconfig.json
+C:\Users\Admin\Documents\Sorting selectionsort\bin\Debug\net5.0\Sorting selectionsort.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Sorting selectionsort\bin\Debug\net5.0\Sorting selectionsort.dll
+C:\Users\Admin\Documents\Sorting selectionsort\bin\Debug\net5.0\ref\Sorting selectionsort.dll
+C:\Users\Admin\Documents\Sorting selectionsort\bin\Debug\net5.0\Sorting selectionsort.pdb
+C:\Users\Admin\Documents\Sorting selectionsort\obj\Debug\net5.0\Sorting selectionsort.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Sorting selectionsort\obj\Debug\net5.0\Sorting selectionsort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Sorting selectionsort\obj\Debug\net5.0\Sorting selectionsort.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Sorting selectionsort\obj\Debug\net5.0\Sorting selectionsort.AssemblyInfo.cs
+C:\Users\Admin\Documents\Sorting selectionsort\obj\Debug\net5.0\Sorting selectionsort.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Sorting selectionsort\obj\Debug\net5.0\Sorting selectionsort.dll
+C:\Users\Admin\Documents\Sorting selectionsort\obj\Debug\net5.0\ref\Sorting selectionsort.dll
+C:\Users\Admin\Documents\Sorting selectionsort\obj\Debug\net5.0\Sorting selectionsort.pdb
+C:\Users\Admin\Documents\Sorting selectionsort\obj\Debug\net5.0\Sorting selectionsort.genruntimeconfig.cache
