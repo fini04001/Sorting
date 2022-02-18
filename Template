@@ -1,5 +1,5 @@
 using System;
-using System.Linq
+using System.Linq;
 using System.Diagnostics;
 
 
@@ -13,11 +13,10 @@ namespace Template
         }
         //Sorting type
         
-        static void Main(string[] args)
+         static void Main(string[] args)          //Scrambler
         {
-            //Scrambler
-            int length = HOW LONG THE ARRAY IS;
-            int[scrm]  = new int[length];
+            int length = 1000;
+            int[] scrm = new int[length];
 
             for (int s = 0; s <= length - 1; s++)
             {
@@ -26,9 +25,9 @@ namespace Template
             Random random = new Random();
             scrm = scrm.OrderBy(x => random.Next()).ToArray();
             Console.WriteLine("Scrambled: ");
-            foreach (var s in scrm)
+            foreach (var e in scrm)
             {
-                Console.WriteLine(s);
+                Console.WriteLine(e);
             }
             //Scrambler
 
@@ -38,7 +37,7 @@ namespace Template
             //Sortering Funktion
             
 
-     
+            
      
             
             //Sortering Funktion
@@ -46,12 +45,12 @@ namespace Template
             stopwatch.Stop();
 
             Console.WriteLine("Sorted: ");
-            foreach(var ELEMENT in THE ARRAY) //in Funktion
+            foreach(var e in scrm) //in Funktion
             {
-                Console.WriteLine(ELEMENT);
+                Console.WriteLine(e);
             }
-                
-                Console.WriteLine("Elapsed Time is: {0} ms", stopwatch.ElapsedMilliseconds);
-        }
+            Console.WriteLine("Size of sort: " + length);
+            Console.WriteLine("Sorting time: {0}ms", stopwatch.Elapsed.Milliseconds);          
+        }   
     }
 }
